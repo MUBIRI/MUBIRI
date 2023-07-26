@@ -35,5 +35,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-MUBIRI
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-MUBIRI)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=MUBIRI
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUBIRI&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
